@@ -1,0 +1,1 @@
+letf:=mapntoifn=0then1elsen*f(n-1);inletf:=mapn,m,ktoif(n<=0&n>=0)|(n<0&n>0&n!=0)thennumber?elsem/f(k+1);inletx:=3;y:=4;z:=cons?(function?(x*~y),cons(-arity(x)));inletx:=3;y:=4;z:=g();in(g(x,y,z))(null?(true),list?(false),first(null))
